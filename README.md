@@ -4,7 +4,6 @@ Overview:
 MelodyVerse is a full-stack web application designed to provide users with a platform for sharing and discovering music-related content. The application features a user-friendly interface, allowing users to sign up, create posts, and explore a feed of music-related content. MelodyVerse also integrates authentication for secure user registration and login, as well as MongoDB for data storage.
 
 Technology Stack:
-
 Backend:
 Node.js
 Express.js
